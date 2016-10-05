@@ -16,7 +16,7 @@ _BDD: this program will handle..._
 
 ## Support and contact details
 
-_if you have any problems please contact us at mrslaurenposey@gmail.com_
+_if you have any problems please contact us at mrslaurenposey@gmail.com or skyrousse@gmail.com_
 
 ## Technologies Used
 
